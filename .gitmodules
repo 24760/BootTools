@@ -1,3 +1,6 @@
 [submodule "உருப்பசு"]
 	path = உருப்பசு
 	url = https://github.com/247i/Rufus.git
+[submodule "உநிகரதுவக்கம்"]
+	path = உநிகரதுவக்கம்
+	url = https://github.com/247i/UNetbootin.git
