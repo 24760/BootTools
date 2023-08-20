@@ -13,3 +13,6 @@
 [submodule "அகர"]
 	path = அகர
 	url = https://github.com/247i/01.git
+[submodule "உஉபநி"]
+	path = உஉபநி
+	url = https://github.com/247i/YUMI.git
